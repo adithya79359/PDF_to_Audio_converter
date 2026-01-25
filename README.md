@@ -1,4 +1,4 @@
-# PDF to Audio Converter
+# PDF to Audio Converter  📄 ➜ 📝 ➜ 🔊
 
 ## Manipal Institute of Technology (MIT)
 
