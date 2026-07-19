@@ -1,4 +1,4 @@
-# PDF to Audio Converter  📄 ➜ 📝 ➜ 🔊
+# PDF to Audio Converter  
 
 ## Manipal Institute of Technology (MIT)
 
@@ -16,16 +16,6 @@ and complex PDFs such as resumes or scanned documents.
 The main objective of this project is to make document content accessible in
 audio format and to understand how different technologies can be integrated
 together in a single workflow.
-
----
-
-## Features
-
-- Accepts a PDF file as input  
-- Extracts text from the PDF using appropriate techniques  
-- Converts the extracted text into audio  
-- Generates an audio file that can be played on any media player  
-- Handles PDFs with complex layouts  
 
 ---
 
